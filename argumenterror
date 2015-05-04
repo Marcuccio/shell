@@ -1,0 +1,3 @@
+	Numero di argomenti in input errati.
+	HELP:
+	   .a.out "--prompt <prompt>” “--loglevel <loglevel>” “--logfile <logfile>
